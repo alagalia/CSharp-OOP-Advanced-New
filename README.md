@@ -1,2 +1,2 @@
 # CSharp-OOP-Advanced-New
-Excarcises and homeworks from C# OOP Advanced course in SoftUni
+Exercises and homeworks from C# OOP Advanced course in SoftUni
