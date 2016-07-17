@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01.Define_InterfaceIPerson
 {
     using System.Reflection;
 
-    class Program
+    class InterfaceIPerson
     {
         static void Main()
         {
