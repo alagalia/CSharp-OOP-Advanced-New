@@ -60,6 +60,11 @@
             this.elements.ForEach(e => Console.WriteLine(e));
         }
 
+        public void Sort()
+        {
+            this.elements = this.elements.OrderBy(e => e).ToList();
+        }
+
         private void ValidateIndex(params int[] indices)
         {
             foreach (int index in indices)

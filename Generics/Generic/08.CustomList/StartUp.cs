@@ -69,6 +69,12 @@ namespace _08.CustomList
                         break;
                     }
 
+                case "Sort":
+                    {
+                        myCollection.Sort();
+                        break;
+                    }
+
                 case "Print":
                     {
                         myCollection.Print();

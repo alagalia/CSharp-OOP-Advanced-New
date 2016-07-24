@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Generic Count Method Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CustomList", "08.CustomList\08.CustomList.csproj", "{16BD9ACB-3355-4F06-85C9-8ED62C6A4071}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.TupleEx", "11.TupleEx\11.TupleEx.csproj", "{931B0B38-76E7-4E97-81C2-98A611551B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Threeuple", "12.Threeuple\12.Threeuple.csproj", "{1FEE5C08-A139-48A7-BEA3-2AC4ACCECF8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{16BD9ACB-3355-4F06-85C9-8ED62C6A4071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16BD9ACB-3355-4F06-85C9-8ED62C6A4071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16BD9ACB-3355-4F06-85C9-8ED62C6A4071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931B0B38-76E7-4E97-81C2-98A611551B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931B0B38-76E7-4E97-81C2-98A611551B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931B0B38-76E7-4E97-81C2-98A611551B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931B0B38-76E7-4E97-81C2-98A611551B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEE5C08-A139-48A7-BEA3-2AC4ACCECF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEE5C08-A139-48A7-BEA3-2AC4ACCECF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEE5C08-A139-48A7-BEA3-2AC4ACCECF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEE5C08-A139-48A7-BEA3-2AC4ACCECF8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
