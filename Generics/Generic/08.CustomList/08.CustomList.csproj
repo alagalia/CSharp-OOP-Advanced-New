@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{55188E8D-9574-4FEF-A882-96D052121DD6}</ProjectGuid>
+    <ProjectGuid>{16BD9ACB-3355-4F06-85C9-8ED62C6A4071}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_07.Generic_Count_Method_Doubles</RootNamespace>
-    <AssemblyName>_07.Generic_Count_Method_Doubles</AssemblyName>
+    <RootNamespace>_08.CustomList</RootNamespace>
+    <AssemblyName>08.CustomList</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomList.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
