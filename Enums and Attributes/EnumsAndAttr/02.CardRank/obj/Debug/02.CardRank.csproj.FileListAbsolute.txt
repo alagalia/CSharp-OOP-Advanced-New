@@ -1,0 +1,5 @@
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\02.CardRank\bin\Debug\02.CardRank.exe.config
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\02.CardRank\bin\Debug\02.CardRank.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\02.CardRank\bin\Debug\02.CardRank.pdb
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\02.CardRank\obj\Debug\02.CardRank.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\02.CardRank\obj\Debug\02.CardRank.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\01CardSuit\bin\Debug\01CardSuit.exe.config
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\01CardSuit\bin\Debug\01CardSuit.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\01CardSuit\bin\Debug\01CardSuit.pdb
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\01CardSuit\obj\Debug\01CardSuit.csprojResolveAssemblyReference.cache
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\01CardSuit\obj\Debug\01CardSuit.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\01CardSuit\obj\Debug\01CardSuit.pdb

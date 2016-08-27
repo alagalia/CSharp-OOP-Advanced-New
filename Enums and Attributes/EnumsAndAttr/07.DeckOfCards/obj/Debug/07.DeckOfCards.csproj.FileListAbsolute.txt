@@ -1,0 +1,5 @@
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\07.DeckOfCards\bin\Debug\07.DeckOfCards.exe.config
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\07.DeckOfCards\bin\Debug\07.DeckOfCards.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\07.DeckOfCards\bin\Debug\07.DeckOfCards.pdb
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\07.DeckOfCards\obj\Debug\07.DeckOfCards.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\07.DeckOfCards\obj\Debug\07.DeckOfCards.pdb

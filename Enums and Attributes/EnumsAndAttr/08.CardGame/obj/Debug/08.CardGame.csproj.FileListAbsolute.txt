@@ -1,0 +1,6 @@
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\08.CardGame\bin\Debug\08.CardGame.exe.config
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\08.CardGame\obj\Debug\08.CardGame.csprojResolveAssemblyReference.cache
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\08.CardGame\bin\Debug\08.CardGame.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\08.CardGame\bin\Debug\08.CardGame.pdb
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\08.CardGame\obj\Debug\08.CardGame.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\08.CardGame\obj\Debug\08.CardGame.pdb

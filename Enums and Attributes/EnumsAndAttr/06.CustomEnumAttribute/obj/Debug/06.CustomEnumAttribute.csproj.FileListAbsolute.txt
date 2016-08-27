@@ -1,0 +1,6 @@
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe.config
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.pdb
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.csprojResolveAssemblyReference.cache
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.exe
+D:\SOFTUNI-C#\C#\C# OOP advance new\---Enums and Attributes\EnumsAndAttr\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.pdb
