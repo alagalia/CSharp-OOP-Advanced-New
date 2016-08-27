@@ -1,6 +1,0 @@
-D:\SOFTUNI-C#\C#\C# OOP advance new\Object Communication and Events\04.Work Force\bin\Debug\04.Work Force.exe.config
-D:\SOFTUNI-C#\C#\C# OOP advance new\Object Communication and Events\04.Work Force\bin\Debug\04.Work Force.exe
-D:\SOFTUNI-C#\C#\C# OOP advance new\Object Communication and Events\04.Work Force\bin\Debug\04.Work Force.pdb
-D:\SOFTUNI-C#\C#\C# OOP advance new\Object Communication and Events\04.Work Force\obj\Debug\04.Work Force.csprojResolveAssemblyReference.cache
-D:\SOFTUNI-C#\C#\C# OOP advance new\Object Communication and Events\04.Work Force\obj\Debug\04.Work Force.exe
-D:\SOFTUNI-C#\C#\C# OOP advance new\Object Communication and Events\04.Work Force\obj\Debug\04.Work Force.pdb
